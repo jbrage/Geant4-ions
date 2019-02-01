@@ -1,8 +1,13 @@
 # Geant4: 200 MeV/u carbon ions in water
 
+
 ### Scoring
 * the dose for primaries and secondaries for a given atomic number 
 * the fluence-averaged LET or whatever quantity specified in the routine
+* Saves histograms to 
+```
+mkdir -p build/histograms
+```
 
 
 ### Validation 
