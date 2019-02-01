@@ -1,0 +1,16 @@
+/run/numberOfThreads 3
+/run/initialize
+# /gps/particle proton
+# /random/setSeeds 650 78
+
+# /gps/particle ion
+/gps/ion 6 12 0 0 
+/gps/energy 2400 MeV
+
+
+/gps/position 0. 0. 0. cm
+/gps/direction 1. 0. 0.
+/gps/number 1
+
+
+/run/beamOn 50000
