@@ -1,4 +1,5 @@
 ## Geant4: 200 MeV/u carbon ions in water
+Tested for Geant4 10.2.3
 
 ### Scoring
 * the dose for primaries and secondaries for a given atomic number 
